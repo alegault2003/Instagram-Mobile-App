@@ -1,0 +1,16 @@
+LOGIN/ACOUNT CREATION:
+	I was able to implement each screen and the username, however since my project does not have a SHA-1 number, i am unable to implement the user authentication. Also, since I have trouble working with permissions, I was unable to implement setting a profile picture (for this section and throughout the project.
+	
+HOME PAGE/FEED:
+	I was able to implement almost all concepts except for posting a new post/story due to not being able to access permissions. I also hard coded contacts since my contacts permission does not work, even after Dr. Butler gave a contacts demo.
+	The concepts that I implemented are: message button, story section, suggested follows, posts.
+	
+MESSENGER:
+	Once again, i used the hard coded contacts since the permission does not work to implement this section. Because i do not have a SHA-1 number, i am also unable to create a messenger that communicates between 2 oppen instagram apps, but the currect user is able to send a new message.
+	
+MEDIA SHARING:
+	I did not implement this. Because I had to work on my android phone to prevent the android studio software from crashing my computer and my phone does not cooperate with permissions from developer apps, I skipped this part.
+	
+PROFILE PAGE:
+	This screen is fully implemented when looking at other user's profiles. it has the username, post, followers, following, and its post(s).
+	Though, because of the permission issue once again, I was unable to implement updating/adding a profile picture.
